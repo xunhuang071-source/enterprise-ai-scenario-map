@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "files": [
+    {
+      "path": "NOTICE.md",
+      "sha256": "8696cef720d3d5f4e28f949086b27a3cc6cd6a77a901f7f5871d40341dfac975"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a5d77ce7a5e587b6c503c8e82b710d17603ab7190ccd25e7b6185d20ede8f4a4"
+    },
+    {
+      "path": "pcf-and-ecommerce/catalog.json",
+      "sha256": "e4e86b355b2bd72df7c75f62563bc95faa67181c24b78613359084ca19be2ef7"
+    },
+    {
+      "path": "pcf-and-ecommerce/字段规范.md",
+      "sha256": "9add640a1bde31b7ded93256f5b9a17313c9c746a567bcfeb0fed1c38a40f7d8"
+    },
+    {
+      "path": "pcf-and-ecommerce/授权与归属.md",
+      "sha256": "3fcc8f14ef117339a82eb182df324715699bd6d8c009756dba58dcadfb3a86be"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/公用事业行业_2026年_V8.0/metadata.json",
+      "sha256": "42f97f146fcfc322f14e0af59d127476ed1542ac40e1b99dd8687a557d188baa"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/公用事业行业_2026年_V8.0/metrics.jsonl",
+      "sha256": "098e05788e4b639c17bbf3a21ed4690485b392b8c73f9a0ead72d7cfc6d32a03"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/公用事业行业_2026年_V8.0/processes.jsonl",
+      "sha256": "0bf82b84003ba57b06fc4c779dbe6e35f9432b4387033f0d990e3a5d4f19fc37"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/公用事业行业_2026年_V8.0/supplement.jsonl",
+      "sha256": "db9629501599614f9a5aca21250c1155a361739d22dbefca709951d210119bfc"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/公用事业行业_2026年_V8.0/目录.md",
+      "sha256": "181d79ef53eb9678865e637088efee08bbc3bc862d2017149ec08ee72f89f58e"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/制药行业_2008年_V5.0.1/metadata.json",
+      "sha256": "2f4823cdf7eda12286cd6781bbb83ba605289a4777f623c2a96dc3e4caf4fc4e"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/制药行业_2008年_V5.0.1/processes.jsonl",
+      "sha256": "6620fcdc17e0bfbc3e29f5990bd23386de08a1925712241d5d878ea791dab7a4"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/制药行业_2008年_V5.0.1/目录.md",
+      "sha256": "fb538d9f4a974c98d4745b46a8c5aa4d4ae4b84166e4b7da8ae8f8f4e1e79ba7"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗保险支付方_2020年_V7.2.1/metadata.json",
+      "sha256": "af24aa1ffa91ce6f2999909e890c2caaa06ef351010f99ba2b238d6f487b35ad"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗保险支付方_2020年_V7.2.1/processes.jsonl",
+      "sha256": "231b2c13904df71f3e4a7c80e25769b513edabed3ad651ef07cc1054c0240903"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗保险支付方_2020年_V7.2.1/supplement.jsonl",
+      "sha256": "998fc8730280891a76c6f720e473fb81dddcd683c88354b20a133d4fbd1a96a1"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗保险支付方_2020年_V7.2.1/目录.md",
+      "sha256": "bf95dc2ec3847890bdcd43814863bf0500a49fd0a980241d92e49fb4415b47a9"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗服务提供方_2020年_V7.2.1/metadata.json",
+      "sha256": "a8e89608a3520926404210c1ebda95b4991af853519dd818e693ea68076b1313"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗服务提供方_2020年_V7.2.1/processes.jsonl",
+      "sha256": "1a3c921b35f468cbdc411d0a8bbee7e60659cf7e34b81fde98a6192ca817ea7f"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗服务提供方_2020年_V7.2.1/supplement.jsonl",
+      "sha256": "998fc8730280891a76c6f720e473fb81dddcd683c88354b20a133d4fbd1a96a1"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/医疗服务提供方_2020年_V7.2.1/目录.md",
+      "sha256": "ac3c6453fa14e61a175c25f9296ae23373602648c3c44cb3279055824c5cfa87"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/城市政府_2020年_V7.2.1/metadata.json",
+      "sha256": "d4873baecb99bafefd74a7d560f9c8039c016529858c20bc83f5afe11ca0f0ec"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/城市政府_2020年_V7.2.1/processes.jsonl",
+      "sha256": "0fc2359ab1996739875a57bba07457c0d6773b446042882e609478a7e16136a7"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/城市政府_2020年_V7.2.1/supplement.jsonl",
+      "sha256": "998fc8730280891a76c6f720e473fb81dddcd683c88354b20a133d4fbd1a96a1"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/城市政府_2020年_V7.2.1/目录.md",
+      "sha256": "0425af3ec5ac801be9d3e734ec6bfaf48e200f360d69d9e0825a3da0b8a48929"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/汽车行业_2025年_V7.2.2/metadata.json",
+      "sha256": "075bb7193e86b114016e96a1319b28de1564a4b10309bc8e16cd7097859021cd"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/汽车行业_2025年_V7.2.2/processes.jsonl",
+      "sha256": "afbd4e80cc5449dff62c8b2be849c95719f0ef3becb1e7b34d5d9f14b5c4f1e4"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/汽车行业_2025年_V7.2.2/supplement.jsonl",
+      "sha256": "d1648122e69fa512cc54e50218ad10ccd03a1958ba02115e8419226e55c4e2b2"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/汽车行业_2025年_V7.2.2/目录.md",
+      "sha256": "8c5f1a863dd754b5fff55035569c27abce54851ded80eec7711302df8e1d5f6c"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/metadata.json",
+      "sha256": "6a44c9c91eba0468b8d43a969311fbb88c054ec4b10d0a5e42c9ca1b61167b96"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/metrics.jsonl",
+      "sha256": "5485a36afd35c9ec49a0db41bab0f2f114f93c27dd4bdbf19d669048b23d4d25"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/metrics.part2.jsonl",
+      "sha256": "53a806b401f2a4207c674ff1f6260275ee38b7151aec7bd0309a3fa8202f683c"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/processes.jsonl",
+      "sha256": "29da6b00827a8af8f225a57b418d11b7f332ff71d2f309ad08652b8f400480a2"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/supplement.jsonl",
+      "sha256": "6e127e4a2ff5eeece3b38bccdd0a28a90f7cedae856b6217021b07783710da57"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费品行业_2026年_V8.0/目录.md",
+      "sha256": "1731ed9539ae19f92d8e81e5ebc4b7b1a5797ebe9e1e003037e3f65cc611c55e"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/metadata.json",
+      "sha256": "bfa40fbf3c81a7b4172ff8239d0e41c3167bcef9f2a7858ad2858067937c926a"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/metrics.jsonl",
+      "sha256": "eb6b6680d96f213a309de21b2b0b4ea3b99e155e65af87fd51aff805c8c9726e"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/metrics.part2.jsonl",
+      "sha256": "640c71d0169a1ec5533fc9fd526059be16119e1269ccf874f9a200659b1b954a"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/processes.jsonl",
+      "sha256": "3dd9cd8934154630096a4bce432521cbbc801df48032db4aa145c239120b17af"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/supplement.jsonl",
+      "sha256": "5d9e345e711a8b626450bfe873e363bb21598491baa43f5bf9d5af7e4950a862"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/消费电子行业_2026年_V8.0/目录.md",
+      "sha256": "f02db6e6905d31b80bb4d72463026a4410e323e29309f3aaed3e3f1ce0a2af85"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电信行业_2008年_V5.0.1/metadata.json",
+      "sha256": "4298624358eebdaececa6750164cd7a997ee9ea22bc0a1bce480749137877b36"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电信行业_2008年_V5.0.1/processes.jsonl",
+      "sha256": "b22b8258c69cb56092cd506914a212e5207ccb545715b4c8fda5845253f2c425"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电信行业_2008年_V5.0.1/目录.md",
+      "sha256": "1a529c8ec8085877fc0dcab8cc348de708f79fcfbdc1ff5d7553c913441cb1fe"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/metadata.json",
+      "sha256": "b6ecd3635f08583829fcf1d985eb6153307e0f7a57de46dfe2ce391e706a293e"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/processes.jsonl",
+      "sha256": "1914a5701d422af31d88ae8289b93ef28d9f92495d9d9b7c4e5372d44e5a8387"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/sources.json",
+      "sha256": "c2888a3ec7e5814920879be70d1a54cafd318ba8f77d5604706ea763c001cc91"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/supplement.jsonl",
+      "sha256": "c7378d536be0cee9df8cfe14fbfd426ce61e377d2ad654161de30fca38bd2898"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/依据/精选来源与适用限制.md",
+      "sha256": "59236d96cdf9e333977894af080694c22be4ca57dc111f7e8c64ce745c61f47b"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/依据/编制基线_电商草案.md",
+      "sha256": "26d200dcb99d43f4a5155f1f4a3b930da2fb73a328975f3605427f59385b40f5"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/依据/编制种子.json",
+      "sha256": "56fd1fb1f307082b21718cdedd7ae542f470d2d54034d8c05d43e48689170c0b"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/校验报告.md",
+      "sha256": "d35aa870994c9768dc5857eaa0113a9ace1754d19ff7fb2a8bd464a9a08032ec"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/电商行业_2026年_V0.1_国内实务参考/目录.md",
+      "sha256": "a37c6711a8e30ef1e3c31f117e3114a298d61cbe02c138645a1eae96cbbf3e5b"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/跨行业通用_2020年_V7.0.5_中文译本/metadata.json",
+      "sha256": "9ed5c85f07a202246dfcceb0c415dbbc19c14edda100e70698fec6e081900ad0"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/跨行业通用_2020年_V7.0.5_中文译本/processes.jsonl",
+      "sha256": "79b3d4abca4df200f3fc232ab237b2fac2cb105774945f4ba77ff0fd9eb9c3ce"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/跨行业通用_2020年_V7.0.5_中文译本/supplement.jsonl",
+      "sha256": "998fc8730280891a76c6f720e473fb81dddcd683c88354b20a133d4fbd1a96a1"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/跨行业通用_2020年_V7.0.5_中文译本/目录.md",
+      "sha256": "30762329c30b88367ac65c7a9bfe588a0cd27972eae1e4db934b10ab66e5506c"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/零售行业_2020年_V7.2.1/metadata.json",
+      "sha256": "7dbd64c2d54409c6c48c10f8e48f23d63f2a363cc1ad7a7fb71498d720c94764"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/零售行业_2020年_V7.2.1/processes.jsonl",
+      "sha256": "d81137031303657c9cf6f33ce1c2db5f1591a83329a2e936d035599e9eb27cfb"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/零售行业_2020年_V7.2.1/supplement.jsonl",
+      "sha256": "998fc8730280891a76c6f720e473fb81dddcd683c88354b20a133d4fbd1a96a1"
+    },
+    {
+      "path": "pcf-and-ecommerce/数据/零售行业_2020年_V7.2.1/目录.md",
+      "sha256": "7b6c0ec43950f25d1e1671443a8d15d186a113c57041e79595b1577d42ca66c3"
+    },
+    {
+      "path": "pcf-and-ecommerce/检索/cache-receipt.json",
+      "sha256": "7052e3d906797bdcf999411b9e4492ace4321061f329f4063c32514b27788c39"
+    },
+    {
+      "path": "pcf-and-ecommerce/检索别名.json",
+      "sha256": "b49363d323a7b129dbf74fcb874a7f9b75dc6ecadec2ca2651c609f8731eb94f"
+    },
+    {
+      "path": "pcf-and-ecommerce/行业目录.md",
+      "sha256": "d4c88e047bc7a89dbb5582cf8ea691de9019405fe8f77ec2a571ca253f21ccb3"
+    },
+    {
+      "path": "registry.json",
+      "sha256": "6783154041203b87defbf46243a568b021012bc9da41343068bc8807de6163f2"
+    }
+  ],
+  "restricted_payloads": [
+    "scor-intro"
+  ],
+  "restricted_note": "Expected SCOR descriptor is in registry; actual payload is local-only and may be absent after Git clone."
+}
