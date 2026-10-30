@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Create a project copy by editing only year-related OOXML fields (stdlib)."""
+"""Create a project copy by editing only year-related OOXML fields (stdlib).
+
+The repo ships the template spec as assets/templates/确认表模板.md, not a binary
+master. Build the master from that spec (or ask for one), then pass it via --template.
+"""
 import argparse
 import io
 from pathlib import Path
@@ -47,6 +51,8 @@ def main(argv=None):
     p.add_argument('--years', type=int, nargs=3)
     a = p.parse_args(argv)
     try:
+        if not a.template.is_file():
+            raise OSError('找不到母版：%s；请按 assets/templates/确认表模板.md 自制后用 --template 指定' % a.template)
         result = parameterize(a.template.read_bytes(), a.years)
         # Exclusive create; never replace a current client workbook.
         with a.output.open('xb') as handle:

@@ -220,7 +220,7 @@ class StaticTests(unittest.TestCase):
 
     def test_primary_entry_and_template_reachable(self):
         self.assertTrue((ROOT / 'SKILL.md').is_file())
-        self.assertTrue((ROOT / 'assets/templates/确认表模板.xlsx').is_file())
+        self.assertTrue((ROOT / 'assets/templates/确认表模板.md').is_file())
         self.assertFalse((ROOT / 'references/profiles/power-grid').exists())
         self.assertFalse((ROOT / 'assets/power-grid').exists())
         self.assertNotIn('power-grid', (ROOT / 'SKILL.md').read_text())
