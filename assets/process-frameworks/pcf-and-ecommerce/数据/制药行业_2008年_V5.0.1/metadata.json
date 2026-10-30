@@ -1,0 +1,689 @@
+{
+  "schema_version": "1.0.0",
+  "tool_version": "1.0.0",
+  "dataset_id": "pharmaceutical__v5.0.1__2008__en",
+  "industry_zh": "制药行业",
+  "industry_en": "Pharmaceutical",
+  "version": "5.0.1",
+  "language": "en",
+  "file_year": 2008,
+  "date_type": "copyright",
+  "year_basis": "Excel页脚标注2008年版权；配套PDF为2008年7月V5.0.1",
+  "date_evidence_note": "File year is not necessarily release year.",
+  "aliases": [
+    "制药行业",
+    "Pharmaceutical",
+    "pharmaceutical",
+    "制药",
+    "药企",
+    "pharma"
+  ],
+  "source_file": "../Excel版/制药行业_2008年_V5.0.1.xlsx",
+  "source_filename": "制药行业_2008年_V5.0.1.xlsx",
+  "source_sha256": "6fcc69b8aa0709121ebfe497e8c67c0c0c6a7f704160ea484cf87ed3a1a84139",
+  "compared_to_version": null,
+  "original_organization_note": "Excel行业版号依据原文件名，并与PDF一致；正文所写Cross-Industry v5.0.0指跨行业底版，不是制药行业版号。",
+  "status": "ready",
+  "converted_at": "2026-10-29T11:48:00.244227+00:00",
+  "field_spec": "../../字段规范.md",
+  "reader": "openpyxl",
+  "sheet_dimensions": {
+    "Summary": {
+      "rows": 97,
+      "max_columns": 10
+    },
+    "Template": {
+      "rows": 4,
+      "max_columns": 6
+    },
+    "1.0": {
+      "rows": 63,
+      "max_columns": 6
+    },
+    "2.0": {
+      "rows": 70,
+      "max_columns": 6
+    },
+    "3.0": {
+      "rows": 122,
+      "max_columns": 6
+    },
+    "4.0": {
+      "rows": 222,
+      "max_columns": 6
+    },
+    "5.0": {
+      "rows": 53,
+      "max_columns": 6
+    },
+    "6.0": {
+      "rows": 133,
+      "max_columns": 6
+    },
+    "7.0": {
+      "rows": 184,
+      "max_columns": 6
+    },
+    "8.0": {
+      "rows": 226,
+      "max_columns": 6
+    },
+    "9.0": {
+      "rows": 41,
+      "max_columns": 6
+    },
+    "10.0": {
+      "rows": 32,
+      "max_columns": 6
+    },
+    "11.0": {
+      "rows": 58,
+      "max_columns": 6
+    },
+    "12.0": {
+      "rows": 101,
+      "max_columns": 6
+    },
+    "Copyright and attribution": {
+      "rows": 0,
+      "max_columns": 0
+    }
+  },
+  "supporting_text": [
+    {
+      "location": "xl/worksheets/sheet1.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12IBM Global Business Services"
+    },
+    {
+      "location": "xl/worksheets/sheet1.xml oddFooter",
+      "text": "&C&9&P&R&9Version 1.0"
+    },
+    {
+      "location": "xl/worksheets/sheet1.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework"
+    },
+    {
+      "location": "xl/worksheets/sheet1.xml oddFooter",
+      "text": "&L(c) 2008 APQC and IBM&C&9&P&R&9Generated on &D"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12IBM Global Business Services"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddFooter",
+      "text": "&LCopyright IBM Corporation 2007.&C&P&RVersion 1.0"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet3.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet3.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet4.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet4.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet5.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet5.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet6.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet6.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet7.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet7.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet8.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet8.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet9.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet9.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet10.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet10.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet11.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet11.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet12.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet12.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet13.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet13.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/worksheets/sheet14.xml oddHeader",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "xl/worksheets/sheet14.xml oddFooter",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "xl/drawings/drawing1.xml",
+      "text": "Root\n \n- Process Classification Framework:  The Process Classification Framework (PCF) is an Open Standard and is administered by APQC.\nLevel 1 - Process Category:  \nRepresents the highest level of process in the enterprise, such as Manage Customer Service, Supply Chain, Financial Organization or Human Resources. \nLevel 2 - Process Group:  \nIndicates the next level of processes and represents a “group of processes.”  Perform After Sales Repairs, Procurement, Accounts Payable, Recruit/Source, or Develop Sales Strategy are each examples of a process group. \nLevel 3 - Process:  \nA series of interrelated activities which convert inputs into results (outputs); processes consume resources and require standards for repeatable performance; and processes respond to control systems which direct the quality, rate and cost of performance.\nLevel 4 - Activity:  \nIndicates key events performed when executing a process.  Examples of activities include Receive Customer Requests, Resolve Customer Complaints, Negotiate Purchasing Contracts, etc. \nBased on the renowned Process Classification Framework\nSM\n (PCF),\n \na taxonomy of cross-functional business processes intended to allow\n \nobjective comparison of performance within and among organizations,\n \nand the support of IBM, this industry PCF enables more industry\n \napplicable content by outlining and defining processes and activities\n \nspecific to this industry. This allows organizations to\n \nchoose the framework most relevant to the specific process improvement\n \nneed, whether it be benchmarking within or across industries, business\n \nprocess management/re-engineering, or content management. The\n \ncross-industry PCF and industry PCFs are available on the APQC website\n \nat no charge. IBM provided the subject matter expertise and intellectual\n \nproperty to create the industry specific business process classification\n \nframeworks, as part of the IBM’s continuing leadership in the promotion\n  of\n the \nCross Industry Process Classification Framework\n \nat an industry level.\n \nExperience shows that the potential of benchmarking to drive dramatic\n \nimprovement lies squarely in making out-of-the-box comparisons\n \nand searching for insights not typically found within intra-industry\n \nparadigms. To enable this beneficial benchmarking, the APQC Process\n \nClassification FrameworkSM (PCF) serves as a high-level, industry-neutral\n \nenterprise process model that allows organizations to see their\n \nbusiness processes from a cross-industry viewpoint.\n \nThis cross-industry framework has experienced more than 15 years of creative use by thousands of organizations worldwide. The PCF provides\nthe foundation for APQC’s Open Standards Benchmarking\nSM \ndatabase of performance metrics, the largest of its kind in the world, and for the work of its advisory council of global industry leaders. The PCF will continue to be enhanced as the database further develops definitions, processes, and measures. The PCF, associated measures, and definitions are available for download at no charge at \nwww.apqc.org/osb\n. An online benchmarking portal for individual assessments is also available.\nThe cross industry and industry Process Classification Frameworks are\n \nevolving models, which APQC will continue to enhance and improve\n \nregularly. Thus, APQC encourages comments, suggestions, and more\n \nimportantly, the sharing of insights from having applied the PCF within\n \nyour organization. Share your suggestions and experiences with the\n \nPCF by e-mailing pcf_feedback@apqc.org.\n \nAn internationally recognized resource for process and performance\n \nimprovement, APQC helps organizations adapt to rapidly changing\n \nenvironments, build new and better ways to work, and succeed in a\n \ncompetitive marketplace. With a focus on productivity, knowledge\n \nmanagement, benchmarking, and quality improvement initiatives,\n \nAPQC works with its member organizations to identify best practices;\n \ndiscover effective methods of improvement; broadly disseminate\n \nfindings; and connect individuals with one another and the knowledge,\n \ntraining, and tools they need to succeed. Founded in 1977, APQC\n \nis a member-based nonprofit serving organizations around the world\n \nin all sectors of business, education, and government. APQC is\n \nalso a proud winner of the 2003 and 2004 North American Most\n \nAdmired Knowledge Enterprises (MAKE) awards. This award is\n \nbased on a study by Teleos, a European based research firm, and\n \nthe KNOW network.\n \nThe cross-industry Process Classification Framework was originally\n \nenvisioned as a taxonomy of business processes and a common\n \nlanguage through which APQC member organizations could benchmark\n \ntheir processes. The initial design involved APQC and more than 80\n \norganizations with strong interest in advancing the use of benchmarking\n \nin the United States and worldwide. Since its inception in 1992, the\n \nPCF has seen updates to most of its content. These updates keep the\n \nframework current with the ways that organizations do business around\n \nthe world. In 2008, APQC and IBM worked together to enhance the\n \ncross-industry PCF and to develop a number of industry-specific process\n \nclassification frameworks.\n "
+    },
+    {
+      "location": "xl/drawings/drawing2.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing3.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing4.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing5.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing6.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing7.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing8.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing9.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing10.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing11.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing12.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing13.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing14.xml",
+      "text": "BLUE\nMAROON\nRED\nBLACK"
+    },
+    {
+      "location": "xl/drawings/drawing15.xml",
+      "text": "ABOUT APQC\n\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.\nABOUT IBM\n\nAt IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs.\nCOPYRIGHT AND ATTRIBUTION\n\n\nThis Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking.  ©2018 APQC and IBM reserve all rights in this work except as expressly granted herein.\n \nAPQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution:\nThis work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit \nwww.apqc.org/pcf."
+    },
+    {
+      "location": "docProps/core.xml",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<cp:coreProperties xmlns:cp=\"http://schemas.openxmlformats.org/package/2006/metadata/core-properties\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:dcmitype=\"http://purl.org/dc/dcmitype/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><dc:creator>FH</dc:creator><cp:lastModifiedBy>Kelli South</cp:lastModifiedBy><cp:lastPrinted>2008-10-27T19:49:16Z</cp:lastPrinted><dcterms:created xsi:type=\"dcterms:W3CDTF\">2004-04-06T01:06:52Z</dcterms:created><dcterms:modified xsi:type=\"dcterms:W3CDTF\">2025-02-26T16:18:56Z</dcterms:modified></cp:coreProperties>"
+    },
+    {
+      "location": "docProps/custom.xml",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/custom-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"2\" name=\"ContentType\"><vt:lpwstr>Document</vt:lpwstr></property><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"3\" name=\"_dlc_DocId\"><vt:lpwstr>EZHFA3ZRF65H-310-40</vt:lpwstr></property><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"4\" name=\"_dlc_DocIdItemGuid\"><vt:lpwstr>ee52561b-14e2-4de9-8e63-17847e89dbc7</vt:lpwstr></property><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"5\" name=\"_dlc_DocIdUrl\"><vt:lpwstr>http://vault.apqc.org/SiteDirectory/OSBC/PCF/_layouts/DocIdRedir.aspx?ID=EZHFA3ZRF65H-310-40, EZHFA3ZRF65H-310-40</vt:lpwstr></property><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"6\" name=\"ContentTypeId\"><vt:lpwstr>0x01010006F668269D666E41BA2492BFBDCCA1C3</vt:lpwstr></property></Properties>"
+    },
+    {
+      "location": "Summary!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "PHARMACEUTICALS PROCESS CLASSIFICATION FRAMEWORK"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 3",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Summary of Classification Taxonomy"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 4",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 1.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop Vision and Strategy"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 5",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 2.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop and Manage Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 6",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 3.0"
+        },
+        {
+          "column": 2,
+          "value": "Market and Sell Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 7",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 4.0"
+        },
+        {
+          "column": 2,
+          "value": "Deliver Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 8",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 5.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Customer Service"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 9",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 6.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop and Manage Human Capital"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 10",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 7.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Information Technology"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 11",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 8.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Financial Resources"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 12",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 9.0"
+        },
+        {
+          "column": 2,
+          "value": "Acquire, Construct, and Manage Property"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 13",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 10.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Environmental Health and Safety (EHS)"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 14",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 11.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage External Relationships"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 15",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 12.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Knowledge, Improvement, and Change"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 20",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Overview"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 21",
+      "cells": [
+        {
+          "column": 1,
+          "value": "PHARMACEUTICALS PROCESS CLASSIFICATION FRAMEWORK"
+        },
+        {
+          "column": 5,
+          "value": "THE FRAMEWORK FOR PROCESS IMPROVEMENT"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 40",
+      "cells": [
+        {
+          "column": 1,
+          "value": "CONTENT ORGANIZATION"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 57",
+      "cells": [
+        {
+          "column": 1,
+          "value": "LOOKING FORWARD"
+        },
+        {
+          "column": 5,
+          "value": "ABOUT APQC"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 65",
+      "cells": [
+        {
+          "column": 1,
+          "value": "HISTORY"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "PHARMACEUTICALS PROCESS CLASSIFICATION FRAMEWORK"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 2",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Tailored to this Industry from APQC's Cross-Industry PCF v5.0.0"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 4",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Unique APQC Identifier"
+        },
+        {
+          "column": 2,
+          "value": "Source (if new from PCF v4.0 or unique to this industry)"
+        },
+        {
+          "column": 3,
+          "value": "Process Category"
+        },
+        {
+          "column": 4,
+          "value": "Process Group"
+        },
+        {
+          "column": 5,
+          "value": "Process"
+        },
+        {
+          "column": 6,
+          "value": "Activity"
+        }
+      ]
+    }
+  ],
+  "attribution_text": [
+    {
+      "location": "xl/worksheets/sheet1.xml oddFooter",
+      "text": "&L(c) 2008 APQC and IBM&C&9&P&R&9Generated on &D"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddFooter",
+      "text": "&LCopyright IBM Corporation 2007.&C&P&RVersion 1.0"
+    },
+    {
+      "location": "xl/drawings/drawing15.xml",
+      "text": "ABOUT APQC\n\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.\nABOUT IBM\n\nAt IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs.\nCOPYRIGHT AND ATTRIBUTION\n\n\nThis Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking.  ©2018 APQC and IBM reserve all rights in this work except as expressly granted herein.\n \nAPQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution:\nThis work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit \nwww.apqc.org/pcf."
+    }
+  ],
+  "statistics": {
+    "structure": "legacy column hierarchy",
+    "chapter_rows": {
+      "1.0": {
+        "source_rows": 63,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 59,
+        "unparsed_rows": 0
+      },
+      "2.0": {
+        "source_rows": 70,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 66,
+        "unparsed_rows": 0
+      },
+      "3.0": {
+        "source_rows": 122,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 118,
+        "unparsed_rows": 0
+      },
+      "4.0": {
+        "source_rows": 222,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 218,
+        "unparsed_rows": 0
+      },
+      "5.0": {
+        "source_rows": 53,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 49,
+        "unparsed_rows": 0
+      },
+      "6.0": {
+        "source_rows": 133,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 129,
+        "unparsed_rows": 0
+      },
+      "7.0": {
+        "source_rows": 184,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 180,
+        "unparsed_rows": 0
+      },
+      "8.0": {
+        "source_rows": 226,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 222,
+        "unparsed_rows": 0
+      },
+      "9.0": {
+        "source_rows": 41,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 37,
+        "unparsed_rows": 0
+      },
+      "10.0": {
+        "source_rows": 32,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 28,
+        "unparsed_rows": 0
+      },
+      "11.0": {
+        "source_rows": 58,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 54,
+        "unparsed_rows": 0
+      },
+      "12.0": {
+        "source_rows": 101,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 97,
+        "unparsed_rows": 0
+      }
+    },
+    "parsed_node_count": 1257,
+    "metrics_source_rows": 0,
+    "metrics_blank_rows_excluded": 0,
+    "node_count": 1257,
+    "level_counts": {
+      "1": 12,
+      "2": 66,
+      "3": 285,
+      "4": 894
+    },
+    "top_level_count": 12,
+    "max_level": 4,
+    "duplicate_hierarchy_count": 0,
+    "repeated_pcf_ids": {},
+    "orphan_count": 0,
+    "with_definition": 0,
+    "bilingual_count": 0,
+    "metric_record_count": 0,
+    "unlinked_metrics": 0,
+    "supplement_count": 0
+  },
+  "issues": [],
+  "blocking_issues": []
+}

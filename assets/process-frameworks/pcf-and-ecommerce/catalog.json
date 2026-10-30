@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.1.0",
+  "created_at": "2026-10-29T11:48:00.244227+00:00",
+  "scope": "11 APQC Excel-derived datasets plus one non-official locally compiled domestic ecommerce reference; PDFs not imported.",
+  "datasets": [
+    {
+      "dataset_id": "utilities__v8.0__2026__en",
+      "industry_zh": "公用事业行业",
+      "industry_en": "Utilities",
+      "version": "8.0",
+      "file_year": 2026,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "公用事业行业",
+        "Utilities",
+        "utilities",
+        "公用事业",
+        "电力",
+        "水务",
+        "燃气",
+        "utility"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页：GENERATED ON 8/10/2026，即2026年8月10日生成",
+      "directory": "数据/公用事业行业_2026年_V8.0",
+      "node_count": 2144,
+      "metric_count": 3349
+    },
+    {
+      "dataset_id": "pharmaceutical__v5.0.1__2008__en",
+      "industry_zh": "制药行业",
+      "industry_en": "Pharmaceutical",
+      "version": "5.0.1",
+      "file_year": 2008,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "制药行业",
+        "Pharmaceutical",
+        "pharmaceutical",
+        "制药",
+        "药企",
+        "pharma"
+      ],
+      "date_type": "copyright",
+      "year_basis": "Excel页脚标注2008年版权；配套PDF为2008年7月V5.0.1",
+      "directory": "数据/制药行业_2008年_V5.0.1",
+      "node_count": 1257,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "health-insurance-payor__v7.2.1__2020__en",
+      "industry_zh": "医疗保险支付方",
+      "industry_en": "Health Insurance Payor",
+      "version": "7.2.1",
+      "file_year": 2020,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "医疗保险支付方",
+        "Health Insurance Payor",
+        "health-insurance-payor",
+        "医疗保险",
+        "医保",
+        "health insurance"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页文本框：GENERATED ON 1/9/2020，即2020年1月9日生成",
+      "directory": "数据/医疗保险支付方_2020年_V7.2.1",
+      "node_count": 2142,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "healthcare-provider__v7.2.1__2020__en",
+      "industry_zh": "医疗服务提供方",
+      "industry_en": "Healthcare Provider",
+      "version": "7.2.1",
+      "file_year": 2020,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "医疗服务提供方",
+        "Healthcare Provider",
+        "healthcare-provider",
+        "医疗服务",
+        "医院",
+        "healthcare"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页文本框：GENERATED ON 1/9/2020，即2020年1月9日生成",
+      "directory": "数据/医疗服务提供方_2020年_V7.2.1",
+      "node_count": 1985,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "city-government__v7.2.1__2020__en",
+      "industry_zh": "城市政府",
+      "industry_en": "City Government",
+      "version": "7.2.1",
+      "file_year": 2020,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "城市政府",
+        "City Government",
+        "city-government",
+        "政府",
+        "市政",
+        "city government"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页文本框：GENERATED ON 1/9/2020，即2020年1月9日生成",
+      "directory": "数据/城市政府_2020年_V7.2.1",
+      "node_count": 2100,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "automotive__v7.2.2__2025__en",
+      "industry_zh": "汽车行业",
+      "industry_en": "Automotive",
+      "version": "7.2.2",
+      "file_year": 2025,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "汽车行业",
+        "Automotive",
+        "automotive",
+        "汽车",
+        "automotive"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页：GENERATED ON 5/7/2025，即2025年5月7日生成",
+      "directory": "数据/汽车行业_2025年_V7.2.2",
+      "node_count": 2179,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "consumer-products__v8.0__2026__en",
+      "industry_zh": "消费品行业",
+      "industry_en": "Consumer Products",
+      "version": "8.0",
+      "file_year": 2026,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "消费品行业",
+        "Consumer Products",
+        "consumer-products",
+        "消费品",
+        "consumer products"
+      ],
+      "date_type": "same_version_reference",
+      "year_basis": "配套同版PDF版本日期为2026年2月；Excel属性创建于2026年8月31日",
+      "directory": "数据/消费品行业_2026年_V8.0",
+      "node_count": 2039,
+      "metric_count": 3346
+    },
+    {
+      "dataset_id": "consumer-electronics__v8.0__2026__en",
+      "industry_zh": "消费电子行业",
+      "industry_en": "Consumer Electronics",
+      "version": "8.0",
+      "file_year": 2026,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "消费电子行业",
+        "Consumer Electronics",
+        "consumer-electronics",
+        "消费电子",
+        "电子",
+        "consumer electronics"
+      ],
+      "date_type": "same_version_reference",
+      "year_basis": "配套同版PDF版本日期为2026年2月；Excel属性创建于2026年8月27日",
+      "directory": "数据/消费电子行业_2026年_V8.0",
+      "node_count": 2047,
+      "metric_count": 3346
+    },
+    {
+      "dataset_id": "telecommunications__v5.0.1__2008__en",
+      "industry_zh": "电信行业",
+      "industry_en": "Telecommunications",
+      "version": "5.0.1",
+      "file_year": 2008,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "电信行业",
+        "Telecommunications",
+        "telecommunications",
+        "电信",
+        "通信",
+        "telecom"
+      ],
+      "date_type": "copyright",
+      "year_basis": "XLS页脚内含2008年版权；版号依据内嵌属性5.0.1-telecom-enUS-xls",
+      "directory": "数据/电信行业_2008年_V5.0.1",
+      "node_count": 1675,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "cross-industry__v7.0.5__2020__zh",
+      "industry_zh": "跨行业通用",
+      "industry_en": "Cross Industry",
+      "version": "7.0.5",
+      "file_year": 2020,
+      "language": "zh",
+      "status": "ready",
+      "aliases": [
+        "跨行业通用",
+        "Cross Industry",
+        "cross-industry",
+        "跨行业",
+        "通用",
+        "cross industry"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页文本框：GENERATED ON 08/13/2020，即2020年8月13日生成",
+      "directory": "数据/跨行业通用_2020年_V7.0.5_中文译本",
+      "node_count": 1620,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "retail__v7.2.1__2020__en",
+      "industry_zh": "零售行业",
+      "industry_en": "Retail",
+      "version": "7.2.1",
+      "file_year": 2020,
+      "language": "en",
+      "status": "ready",
+      "aliases": [
+        "零售行业",
+        "Retail",
+        "retail",
+        "零售",
+        "retail"
+      ],
+      "date_type": "generated",
+      "year_basis": "说明页文本框：GENERATED ON 1/9/2020，即2020年1月9日生成",
+      "directory": "数据/零售行业_2020年_V7.2.1",
+      "node_count": 1708,
+      "metric_count": 0
+    },
+    {
+      "dataset_id": "ecommerce-practice-reference__v0.1__2026__zh",
+      "industry_zh": "电商行业（国内实务参考）",
+      "industry_en": "Domestic Ecommerce Practice Reference",
+      "version": "0.1",
+      "file_year": 2026,
+      "language": "zh",
+      "status": "ready",
+      "aliases": [
+        "电商",
+        "国内电商",
+        "电商行业",
+        "国内电商参考",
+        "ecommerce",
+        "e-commerce",
+        "domestic ecommerce",
+        "ecommerce-practice-reference"
+      ],
+      "date_type": "compiled",
+      "year_basis": "2026年为本地参考框架编制年；V0.1为本地编制版本，不是来源文章、APQC或国家标准版号。",
+      "framework_family": "domestic_ecommerce_reference",
+      "source_type": "analyst_compiled_reference",
+      "is_official": false,
+      "directory": "数据/电商行业_2026年_V0.1_国内实务参考",
+      "node_count": 193,
+      "metric_count": 0
+    }
+  ],
+  "known_missing": [
+    "生命科学Excel",
+    "跨行业通用V8.0 Excel"
+  ],
+  "updated_at": "2026-10-29T13:52:37.579826+00:00"
+}

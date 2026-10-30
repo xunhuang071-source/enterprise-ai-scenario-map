@@ -1,0 +1,107 @@
+{
+  "notice": "辅助检索词，不是APQC官方译名。",
+  "aliases": {
+    "采购": [
+      "procurement",
+      "procure",
+      "purchasing",
+      "purchase",
+      "采购"
+    ],
+    "供应商": [
+      "supplier",
+      "vendor",
+      "供应商"
+    ],
+    "供应链": [
+      "supply chain",
+      "供应链"
+    ],
+    "客服": [
+      "customer service",
+      "customer support",
+      "客户服务"
+    ],
+    "客户服务": [
+      "customer service",
+      "customer support",
+      "客户服务"
+    ],
+    "财务": [
+      "financial",
+      "finance",
+      "财务"
+    ],
+    "人力资源": [
+      "human capital",
+      "human resource",
+      "人力资源"
+    ],
+    "招聘": [
+      "recruit",
+      "recruitment",
+      "招聘"
+    ],
+    "资产": [
+      "asset",
+      "property",
+      "资产"
+    ],
+    "设备": [
+      "equipment",
+      "equipment maintenance",
+      "设备"
+    ],
+    "维护": [
+      "maintenance",
+      "maintain",
+      "维护"
+    ],
+    "风险": [
+      "risk",
+      "风险"
+    ],
+    "合规": [
+      "compliance",
+      "regulatory",
+      "合规"
+    ],
+    "战略": [
+      "strategy",
+      "strategic",
+      "战略"
+    ],
+    "产品开发": [
+      "develop products",
+      "product development",
+      "产品开发"
+    ],
+    "营销": [
+      "market",
+      "marketing",
+      "营销"
+    ],
+    "生产": [
+      "manufacturing",
+      "production",
+      "生产"
+    ],
+    "信息技术": [
+      "information technology",
+      "IT",
+      "信息技术"
+    ],
+    "绩效": [
+      "performance",
+      "绩效"
+    ],
+    "知识管理": [
+      "knowledge management",
+      "知识管理"
+    ],
+    "订单": [
+      "order",
+      "订单"
+    ]
+  }
+}

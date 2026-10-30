@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0.0",
+  "tool_version": "1.0.0",
+  "dataset_id": "utilities__v8.0__2026__en",
+  "industry_zh": "公用事业行业",
+  "industry_en": "Utilities",
+  "version": "8.0",
+  "language": "en",
+  "file_year": 2026,
+  "date_type": "generated",
+  "year_basis": "说明页：GENERATED ON 8/10/2026，即2026年8月10日生成",
+  "date_evidence_note": "File year is not necessarily release year.",
+  "aliases": [
+    "公用事业行业",
+    "Utilities",
+    "utilities",
+    "公用事业",
+    "电力",
+    "水务",
+    "燃气",
+    "utility"
+  ],
+  "source_file": "../Excel版/公用事业行业_2026年_V8.0.xlsx",
+  "source_filename": "公用事业行业_2026年_V8.0.xlsx",
+  "source_sha256": "6a65e759852ed4eaf039c4095b1a7f7f569f6ece56d98779ef9bb32d85e92ca7",
+  "compared_to_version": "7.2.1",
+  "original_organization_note": "含完整框架及相对V7.2.1的差异信息；配套PDF版本日期为2026年2月。",
+  "status": "ready",
+  "converted_at": "2026-10-29T11:48:00.244227+00:00",
+  "field_spec": "../../字段规范.md",
+  "reader": "openpyxl",
+  "sheet_dimensions": {
+    "Introduction": {
+      "rows": 17,
+      "max_columns": 10
+    },
+    "About": {
+      "rows": 11,
+      "max_columns": 4
+    },
+    "Categories": {
+      "rows": 14,
+      "max_columns": 6
+    },
+    "1.0": {
+      "rows": 132,
+      "max_columns": 7
+    },
+    "2.0": {
+      "rows": 120,
+      "max_columns": 7
+    },
+    "3.0": {
+      "rows": 248,
+      "max_columns": 7
+    },
+    "4.0": {
+      "rows": 178,
+      "max_columns": 7
+    },
+    "5.0": {
+      "rows": 132,
+      "max_columns": 7
+    },
+    "6.0": {
+      "rows": 99,
+      "max_columns": 7
+    },
+    "7.0": {
+      "rows": 166,
+      "max_columns": 7
+    },
+    "8.0": {
+      "rows": 326,
+      "max_columns": 7
+    },
+    "9.0": {
+      "rows": 268,
+      "max_columns": 7
+    },
+    "10.0": {
+      "rows": 104,
+      "max_columns": 7
+    },
+    "11.0": {
+      "rows": 58,
+      "max_columns": 7
+    },
+    "12.0": {
+      "rows": 55,
+      "max_columns": 7
+    },
+    "13.0": {
+      "rows": 271,
+      "max_columns": 7
+    },
+    "Combined": {
+      "rows": 2145,
+      "max_columns": 7
+    },
+    "Metrics": {
+      "rows": 3350,
+      "max_columns": 8
+    },
+    "Copyright and Attribution": {
+      "rows": 12,
+      "max_columns": 1
+    }
+  },
+  "supporting_text": [
+    {
+      "location": "docProps/core.xml",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<cp:coreProperties xmlns:cp=\"http://schemas.openxmlformats.org/package/2006/metadata/core-properties\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:dcmitype=\"http://purl.org/dc/dcmitype/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><dc:title></dc:title><dc:subject></dc:subject><dc:creator>Jonathan Kraft</dc:creator><cp:keywords></cp:keywords><dc:description></dc:description><cp:lastModifiedBy>Megan McCulloch</cp:lastModifiedBy><cp:revision></cp:revision><dcterms:created xsi:type=\"dcterms:W3CDTF\">2026-08-10T17:27:20Z</dcterms:created><dcterms:modified xsi:type=\"dcterms:W3CDTF\">2026-08-20T13:31:56Z</dcterms:modified><cp:category></cp:category><cp:contentStatus></cp:contentStatus></cp:coreProperties>"
+    },
+    {
+      "location": "docProps/custom.xml",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/custom-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"2\" name=\"MediaServiceImageTags\"><vt:lpwstr></vt:lpwstr></property><property fmtid=\"{D5CDD505-2E9C-101B-9397-08002B2CF9AE}\" pid=\"3\" name=\"ContentTypeId\"><vt:lpwstr>0x010100FBD0BE1AF482BD4087E9C93F5F031E4C</vt:lpwstr></property></Properties>"
+    },
+    {
+      "location": "Introduction!row 3",
+      "cells": [
+        {
+          "column": 4,
+          "value": "UTILITIES PROCESS CLASSIFICATION FRAMEWORK"
+        }
+      ]
+    },
+    {
+      "location": "Introduction!row 5",
+      "cells": [
+        {
+          "column": 4,
+          "value": "VERSION NUMBER 8.0"
+        }
+      ]
+    },
+    {
+      "location": "Introduction!row 6",
+      "cells": [
+        {
+          "column": 4,
+          "value": "GENERATED ON 8/10/2026"
+        }
+      ]
+    },
+    {
+      "location": "Introduction!row 8",
+      "cells": [
+        {
+          "column": 4,
+          "value": "For more information about the PCF, visit www.apqc.org/pcf"
+        }
+      ]
+    },
+    {
+      "location": "Introduction!row 10",
+      "cells": [
+        {
+          "column": 4,
+          "value": "COMPARED TO UTILITIES PROCESS CLASSIFICATION FRAMEWORK VERSION 7.2.1"
+        }
+      ]
+    },
+    {
+      "location": "About!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "UNDERSTANDING THIS FILE\nThis file represents a \"flat\" Excel-based version of the PCF. It includes a number of pages intended to communicate the various aspects of the framework necessary to interpret it and make full use of its intended capabilities.\n\nThese pages illustrate the configuration of this file. If you have further questions, please contact APQC directly on pcf_feedback@apqc.org or +1-713-681-4020.\n\nPCF ID is the unique identifier assigned to the specific element on each row. The PCF ID is used throughout APQC's open standards benchmarking as a way to relate measures, questions, and other materials back to specific parts of the PCF. The PCF ID for a process element is aligned to the specific concept identified by the process element. It will be consistent across releases as long as the conceptual meaning does not change.\n\nHierarchy ID is the human-readable index number corresponding to this specific process element on each row. This number will not be consistent across releases - meaning that a process element may have a different hierarchy ID among a set of releases.\n\nDifference index is a score identifying the volume of changes to this process element across releases. The score is only computed when a specific release is compared to another specific release. The difference index encapsulates the changes among all of the process element's descendents, not just the immediate children.  The greater the number, the more significant the changes between the two releases.\n\nChange details is a sentence explaining the differences in the immediate child-level descendents of the specific process element. A \"plus\" symbol  (\"+\") before a number indicates that the specific process element was added since the last release. A \"minus\" symbol (\"-\") before a number indicates that the specific process element was removed since the last release. If the process element was renamed, the sentence will include the phrase \"RENAME, WAS:\" followed by the name previously used by the process element. A new element is identified by the word \"NEW\". A \"c\" before a number indicates that the specific process element changed since the compared release; it saw elements added, removed, the name changed, or some combination of those three operations.\n\nMetrics available indicates whether or not metrics are available in APQC's Open Standards Benchmarking library for this specific process element. For more information, please visit http://www.apqc.org/osb"
+        }
+      ]
+    },
+    {
+      "location": "About!row 6",
+      "cells": [
+        {
+          "column": 1,
+          "value": "EXAMPLE\nIn the above image, one can discern that a new process element \"9.0 Manage Financial Resources\" (17058) was added to the framework. This new element was added to the file. This new element contains a number of previously used elements, including a significant change to one of its immediate children, 10731, which was present in the previous release, but under a different parent. Also category 4 saw relatively few changes (difference index = 2) while category 7 saw the most changes (difference index = 43)."
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "ABOUT APQC"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 2",
+      "cells": [
+        {
+          "column": 1,
+          "value": "An internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network."
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 5",
+      "cells": [
+        {
+          "column": 1,
+          "value": "ABOUT IBM Industry framework"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 6",
+      "cells": [
+        {
+          "column": 1,
+          "value": "At IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs."
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 9",
+      "cells": [
+        {
+          "column": 1,
+          "value": "COPYRIGHT AND ATTRIBUTION"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 10",
+      "cells": [
+        {
+          "column": 1,
+          "value": "This Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking. ©2026 APQC and IBM reserve all rights in this work except as expressly granted herein. APQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution: This work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf."
+        }
+      ]
+    }
+  ],
+  "attribution_text": [
+    {
+      "location": "Copyright and Attribution!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "ABOUT APQC"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 2",
+      "cells": [
+        {
+          "column": 1,
+          "value": "An internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network."
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 5",
+      "cells": [
+        {
+          "column": 1,
+          "value": "ABOUT IBM Industry framework"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 6",
+      "cells": [
+        {
+          "column": 1,
+          "value": "At IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs."
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 9",
+      "cells": [
+        {
+          "column": 1,
+          "value": "COPYRIGHT AND ATTRIBUTION"
+        }
+      ]
+    },
+    {
+      "location": "Copyright and Attribution!row 10",
+      "cells": [
+        {
+          "column": 1,
+          "value": "This Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking. ©2026 APQC and IBM reserve all rights in this work except as expressly granted herein. APQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution: This work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf."
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "structure": "modern Combined",
+    "combined_node_count": 2144,
+    "section_node_count": 2144,
+    "section_conflicts": 6,
+    "missing_in_sections": 0,
+    "section_duplicates": 0,
+    "category_count": 13,
+    "metrics_source_rows": 3349,
+    "metrics_blank_rows_excluded": 0,
+    "node_count": 2144,
+    "level_counts": {
+      "1": 13,
+      "2": 77,
+      "3": 392,
+      "4": 1447,
+      "5": 215
+    },
+    "top_level_count": 13,
+    "max_level": 5,
+    "duplicate_hierarchy_count": 0,
+    "repeated_pcf_ids": {},
+    "orphan_count": 0,
+    "with_definition": 2015,
+    "bilingual_count": 0,
+    "metric_record_count": 3349,
+    "unlinked_metrics": 0,
+    "supplement_count": 7
+  },
+  "issues": [
+    "6 chapter/Combined differences retained in supplement",
+    "Categories differs from Combined; retained"
+  ],
+  "blocking_issues": []
+}
