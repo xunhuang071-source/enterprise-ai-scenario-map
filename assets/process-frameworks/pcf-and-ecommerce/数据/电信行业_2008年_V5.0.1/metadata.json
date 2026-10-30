@@ -1,0 +1,1068 @@
+{
+  "schema_version": "1.0.0",
+  "tool_version": "1.0.0",
+  "dataset_id": "telecommunications__v5.0.1__2008__en",
+  "industry_zh": "电信行业",
+  "industry_en": "Telecommunications",
+  "version": "5.0.1",
+  "language": "en",
+  "file_year": 2008,
+  "date_type": "copyright",
+  "year_basis": "XLS页脚内含2008年版权；版号依据内嵌属性5.0.1-telecom-enUS-xls",
+  "date_evidence_note": "File year is not necessarily release year.",
+  "aliases": [
+    "电信行业",
+    "Telecommunications",
+    "telecommunications",
+    "电信",
+    "通信",
+    "telecom"
+  ],
+  "source_file": "../Excel版/电信行业_2008年_V5.0.1.xls",
+  "source_filename": "电信行业_2008年_V5.0.1.xls",
+  "source_sha256": "d93b4481106a70ed0970c0be4a7c121df56ba927aaa75414bf373af547318d2c",
+  "compared_to_version": null,
+  "original_organization_note": "与PDF的V5.0.2不同。常规xlrd解析报错，本次原样复制，不修复、不转换；文件2025年另有保存更新。",
+  "status": "ready",
+  "converted_at": "2026-10-29T11:48:00.244227+00:00",
+  "field_spec": "../../字段规范.md",
+  "reader": "python-calamine + OLE/BIFF text metadata",
+  "sheet_dimensions": {
+    "Summary": {
+      "rows": 66,
+      "max_columns": 5
+    },
+    "Template": {
+      "rows": 4,
+      "max_columns": 6
+    },
+    "1.0": {
+      "rows": 97,
+      "max_columns": 6
+    },
+    "2.0": {
+      "rows": 125,
+      "max_columns": 6
+    },
+    "3.0": {
+      "rows": 96,
+      "max_columns": 6
+    },
+    "4.0": {
+      "rows": 331,
+      "max_columns": 6
+    },
+    "5.0": {
+      "rows": 120,
+      "max_columns": 6
+    },
+    "6.0": {
+      "rows": 166,
+      "max_columns": 6
+    },
+    "7.0": {
+      "rows": 197,
+      "max_columns": 6
+    },
+    "8.0": {
+      "rows": 326,
+      "max_columns": 6
+    },
+    "9.0": {
+      "rows": 41,
+      "max_columns": 6
+    },
+    "10.0": {
+      "rows": 32,
+      "max_columns": 6
+    },
+    "11.0": {
+      "rows": 45,
+      "max_columns": 6
+    },
+    "12.0": {
+      "rows": 101,
+      "max_columns": 6
+    },
+    "13.0": {
+      "rows": 50,
+      "max_columns": 6
+    },
+    "Copyright and attribution": {
+      "rows": 0,
+      "max_columns": 0
+    }
+  },
+  "supporting_text": [
+    {
+      "location": "Summary header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework"
+    },
+    {
+      "location": "Summary footer",
+      "text": "&L(c) 2008 APQC and IBM&C&9&P&R&9Generated on &D"
+    },
+    {
+      "location": "Summary TXO record 781",
+      "text": "Root - Process Classification Framework:  The Process Classification Framework (PCF) is an Open Standard and is administered by APQC.\n\nLevel 1 - Process Category:  Represents the highest level of process in the enterprise, such as Manage Customer Service, Supply Chain, Financial Organization or Human Resources. \n\nLevel 2 - Process Group:  Indicates the next level of processes and represents a “group of processes.”  Perform After Sales Repairs, Procurement, Accounts Payable, Recruit/Source, or Develop Sales Strategy are each examples of a process group. \n\nLevel 3 - Process:  A series of interrelated activities which convert inputs into results (outputs); processes consume resources and require standards for repeatable performance; and processes respond to control systems which direct the quality, rate and cost of performance.\n\nLevel 4 - Activity:  Indicates key events performed when executing a process.  Examples of activities include Receive Customer Requests, Resolve Customer Complaints, Negotiate Purchasing Contracts, etc. ",
+      "expected_chars": 1041,
+      "extracted_chars": 1041
+    },
+    {
+      "location": "Summary TXO record 787",
+      "text": "Based on the renowned Process Classification FrameworkSM (PCF), a taxonomy of cross-functional business processes intended to allow objective comparison of performance within and among organizations, and the support of IBM, this industry PCF enables more industry applicable content by outlining and defining processes and activities specific to this industry. This allows organizations to choose the framework most relevant to the specific process improvement need, whether it be benchmarking within or across industries, business process management/re-engineering, or content management. The cross-industry PCF and industry PCFs are available on the APQC website at no charge. IBM provided the subject matter expertise and intellectual property to create the industry specific business process classification frameworks, as part of the IBM’s continuing leadership in the promotion  of the Cross Industry Process Classification Framework at an industry level. ",
+      "expected_chars": 961,
+      "extracted_chars": 961
+    },
+    {
+      "location": "Summary TXO record 793",
+      "text": "Experience shows that the potential of benchmarking to drive dramatic improvement lies squarely in making out-of-the-box comparisons and searching for insights not typically found within intra-industry paradigms. To enable this beneficial benchmarking, the APQC Process Classification FrameworkSM (PCF) serves as a high-level, industry-neutral enterprise process model that allows organizations to see their business processes from a cross-industry viewpoint. This cross-industry framework has experienced more than 15 years of creative use by thousands of organizations worldwide. The PCF provides\nthe foundation for APQC’s Open Standards BenchmarkingSM database of performance metrics, the largest of its kind in the world, and for the work of its advisory council of global industry leaders. The PCF will continue to be enhanced as the database further develops definitions, processes, and measures. The PCF, associated measures, and definitions are available for download at no charge at www.apqc.org/osb. An online benchmarking portal for individual assessments is also available.",
+      "expected_chars": 1085,
+      "extracted_chars": 1085
+    },
+    {
+      "location": "Summary TXO record 799",
+      "text": "The cross industry and industry Process Classification Frameworks are evolving models, which APQC will continue to enhance and improve regularly. Thus, APQC encourages comments, suggestions, and more importantly, the sharing of insights from having applied the PCF within your organization. Share your suggestions and experiences with the PCF by e-mailing pcf_feedback@apqc.org. ",
+      "expected_chars": 379,
+      "extracted_chars": 379
+    },
+    {
+      "location": "Summary TXO record 805",
+      "text": "An internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003 and 2004 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network. ",
+      "expected_chars": 923,
+      "extracted_chars": 923
+    },
+    {
+      "location": "Summary TXO record 811",
+      "text": "The cross-industry Process Classification Framework was originally envisioned as a taxonomy of business processes and a common language through which APQC member organizations could benchmark their processes. The initial design involved APQC and more than 80 organizations with strong interest in advancing the use of benchmarking in the United States and worldwide. Since its inception in 1992, the PCF has seen updates to most of its content. These updates keep the framework current with the ways that organizations do business around the world. In 2008, APQC and IBM worked together to enhance the cross-industry PCF and to develop a number of industry-specific process classification frameworks. ",
+      "expected_chars": 701,
+      "extracted_chars": 701
+    },
+    {
+      "location": "Summary header",
+      "text": "&L&\"Arial,Bold\"&12IBM Global Business Services"
+    },
+    {
+      "location": "Summary footer",
+      "text": "&C&9&P&R&9Version 1.0"
+    },
+    {
+      "location": "Template header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "Template footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "Template TXO record 890",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "Template TXO record 896",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "Template TXO record 902",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "Template TXO record 908",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "Template header",
+      "text": "&L&\"Arial,Bold\"&12IBM Global Business Services"
+    },
+    {
+      "location": "Template footer",
+      "text": "&LCopyright IBM Corporation 2007.&C&P&RVersion 1.0"
+    },
+    {
+      "location": "1.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "1.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "1.0 TXO record 1334",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "1.0 TXO record 1340",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "1.0 TXO record 1346",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "1.0 TXO record 1352",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "2.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "2.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "2.0 TXO record 1881",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "2.0 TXO record 1887",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "2.0 TXO record 1893",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "2.0 TXO record 1899",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "3.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "3.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "3.0 TXO record 2330",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "3.0 TXO record 2336",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "3.0 TXO record 2342",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "3.0 TXO record 2348",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "4.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "4.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "4.0 TXO record 3646",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "4.0 TXO record 3652",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "4.0 TXO record 3658",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "4.0 TXO record 3664",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "5.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "5.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "5.0 TXO record 4180",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "5.0 TXO record 4186",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "5.0 TXO record 4192",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "5.0 TXO record 4198",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "6.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "6.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "6.0 TXO record 4810",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "6.0 TXO record 4816",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "6.0 TXO record 4822",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "6.0 TXO record 4828",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "7.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "7.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "7.0 TXO record 5499",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "7.0 TXO record 5505",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "7.0 TXO record 5511",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "7.0 TXO record 5517",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "8.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "8.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "8.0 TXO record 6668",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "8.0 TXO record 6674",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "8.0 TXO record 6680",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "8.0 TXO record 6686",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "9.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "9.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "9.0 TXO record 6885",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "9.0 TXO record 6891",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "9.0 TXO record 6897",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "9.0 TXO record 6903",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "10.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "10.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "10.0 TXO record 7053",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "10.0 TXO record 7059",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "10.0 TXO record 7065",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "10.0 TXO record 7071",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "11.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "11.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "11.0 TXO record 7265",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "11.0 TXO record 7271",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "11.0 TXO record 7277",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "11.0 TXO record 7283",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "12.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "12.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "12.0 TXO record 7666",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "12.0 TXO record 7672",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "12.0 TXO record 7678",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "12.0 TXO record 7684",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "13.0 header",
+      "text": "&L&\"Arial,Bold\"&12Process Classification Framework&RProcess Category - &A"
+    },
+    {
+      "location": "13.0 footer",
+      "text": "&LIBM Global Business Services&C&9&P&R&9&F"
+    },
+    {
+      "location": "13.0 TXO record 7935",
+      "text": "BLUE",
+      "expected_chars": 4,
+      "extracted_chars": 4
+    },
+    {
+      "location": "13.0 TXO record 7941",
+      "text": "MAROON",
+      "expected_chars": 6,
+      "extracted_chars": 6
+    },
+    {
+      "location": "13.0 TXO record 7947",
+      "text": "RED",
+      "expected_chars": 3,
+      "extracted_chars": 3
+    },
+    {
+      "location": "13.0 TXO record 7953",
+      "text": "BLACK",
+      "expected_chars": 5,
+      "extracted_chars": 5
+    },
+    {
+      "location": "Copyright and attribution TXO record 7995",
+      "text": "ABOUT APQC\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.",
+      "expected_chars": 952,
+      "extracted_chars": 952
+    },
+    {
+      "location": "Copyright and attribution TXO record 8001",
+      "text": "ABOUT IBM\nAt IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs.",
+      "expected_chars": 509,
+      "extracted_chars": 509
+    },
+    {
+      "location": "Copyright and attribution TXO record 8007",
+      "text": "COPYRIGHT AND ATTRIBUTION\nThis Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking.  ©2018 APQC and IBM reserve all rights in this work except as expressly granted herein.\n \nAPQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution:\n\nThis work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf.",
+      "expected_chars": 1019,
+      "extracted_chars": 1019
+    },
+    {
+      "location": "OLE embedded property",
+      "text": "5.0.1-telecom-enUS-xls"
+    },
+    {
+      "location": "Summary!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "TELECOMMUNICATIONS PROCESS CLASSIFICATION FRAMEWORK"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 3",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Summary of Classification Taxonomy"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 4",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 1.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop Vision and Strategy"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 5",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 2.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop and Manage Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 6",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 3.0"
+        },
+        {
+          "column": 2,
+          "value": "Market and Sell Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 7",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 4.0"
+        },
+        {
+          "column": 2,
+          "value": "Deliver Products and Services"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 8",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 5.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Customer Service"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 9",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 6.0"
+        },
+        {
+          "column": 2,
+          "value": "Develop and Manage Human Capital"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 10",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 7.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Information Technology"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 11",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 8.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Financial Resources"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 12",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 9.0"
+        },
+        {
+          "column": 2,
+          "value": "Acquire, Construct, and Manage Property"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 13",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 10.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Environmental Health and Safety (EHS)"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 14",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 11.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage External Relationships"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 15",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 12.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage Knowledge, Improvement, and Change"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 16",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Category 13.0"
+        },
+        {
+          "column": 2,
+          "value": "Manage and Plan Network"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 21",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Overview"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 22",
+      "cells": [
+        {
+          "column": 1,
+          "value": "THE TELECOMMUNICATIONS PROCESS CLASSIFICATION FRAMEWORK"
+        },
+        {
+          "column": 5,
+          "value": "THE FRAMEWORK FOR PROCESS IMPROVEMENT"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 41",
+      "cells": [
+        {
+          "column": 1,
+          "value": "CONTENT ORGANIZATION"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 58",
+      "cells": [
+        {
+          "column": 1,
+          "value": "LOOKING FORWARD"
+        },
+        {
+          "column": 5,
+          "value": "ABOUT APQC"
+        }
+      ]
+    },
+    {
+      "location": "Summary!row 66",
+      "cells": [
+        {
+          "column": 1,
+          "value": "HISTORY"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 1",
+      "cells": [
+        {
+          "column": 1,
+          "value": "TELECOMMUNICATIONS PROCESS CLASSIFICATION FRAMEWORK"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 2",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Tailored to this Industry from APQC's Cross-Industry PCF v5.0.0"
+        }
+      ]
+    },
+    {
+      "location": "Template!row 4",
+      "cells": [
+        {
+          "column": 1,
+          "value": "Unique APQC Identifier"
+        },
+        {
+          "column": 2,
+          "value": "Source (if new from PCF v4.0 or unique to this industry)"
+        },
+        {
+          "column": 3,
+          "value": "Process Category"
+        },
+        {
+          "column": 4,
+          "value": "Process Group"
+        },
+        {
+          "column": 5,
+          "value": "Process"
+        },
+        {
+          "column": 6,
+          "value": "Activity"
+        }
+      ]
+    }
+  ],
+  "attribution_text": [
+    {
+      "location": "Summary footer",
+      "text": "&L(c) 2008 APQC and IBM&C&9&P&R&9Generated on &D"
+    },
+    {
+      "location": "Template footer",
+      "text": "&LCopyright IBM Corporation 2007.&C&P&RVersion 1.0"
+    },
+    {
+      "location": "Copyright and attribution TXO record 7995",
+      "text": "ABOUT APQC\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.",
+      "expected_chars": 952,
+      "extracted_chars": 952
+    },
+    {
+      "location": "Copyright and attribution TXO record 8001",
+      "text": "ABOUT IBM\nAt IBM, we collaborate with our clients, bringing together business insight, advanced research and technology to give them a distinct advantage in today’s rapidly changing environment. Through our integrated approach to business design and execution, we help turn strategies into action. And with expertise in 17 industries and global capabilities that span 170 countries, we can help clients anticipate change and profit from new opportunities. For more information, visit www.ibm.com/services/gbs.",
+      "expected_chars": 509,
+      "extracted_chars": 509
+    },
+    {
+      "location": "Copyright and attribution TXO record 8007",
+      "text": "COPYRIGHT AND ATTRIBUTION\nThis Industry Process Classification Framework was jointly developed by APQC and IBM to facilitate improvement through process management and benchmarking.  ©2018 APQC and IBM reserve all rights in this work except as expressly granted herein.\n \nAPQC and IBM hereby grant you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF include this notice, and any derivative works contain the following attribution:\n\nThis work is based in part on an Industry Process Classification Framework (“PCF”), an open standard developed by APQC and IBM to promote benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or other industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf.",
+      "expected_chars": 1019,
+      "extracted_chars": 1019
+    }
+  ],
+  "statistics": {
+    "structure": "legacy column hierarchy",
+    "chapter_rows": {
+      "1.0": {
+        "source_rows": 97,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 93,
+        "unparsed_rows": 0
+      },
+      "2.0": {
+        "source_rows": 125,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 121,
+        "unparsed_rows": 0
+      },
+      "3.0": {
+        "source_rows": 96,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 92,
+        "unparsed_rows": 0
+      },
+      "4.0": {
+        "source_rows": 331,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 327,
+        "unparsed_rows": 0
+      },
+      "5.0": {
+        "source_rows": 120,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 116,
+        "unparsed_rows": 0
+      },
+      "6.0": {
+        "source_rows": 166,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 162,
+        "unparsed_rows": 0
+      },
+      "7.0": {
+        "source_rows": 197,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 193,
+        "unparsed_rows": 0
+      },
+      "8.0": {
+        "source_rows": 326,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 322,
+        "unparsed_rows": 0
+      },
+      "9.0": {
+        "source_rows": 41,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 37,
+        "unparsed_rows": 0
+      },
+      "10.0": {
+        "source_rows": 32,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 28,
+        "unparsed_rows": 0
+      },
+      "11.0": {
+        "source_rows": 45,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 41,
+        "unparsed_rows": 0
+      },
+      "12.0": {
+        "source_rows": 101,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 97,
+        "unparsed_rows": 0
+      },
+      "13.0": {
+        "source_rows": 50,
+        "header_rows_excluded": 4,
+        "blank_rows_excluded": 0,
+        "process_rows": 46,
+        "unparsed_rows": 0
+      }
+    },
+    "parsed_node_count": 1675,
+    "metrics_source_rows": 0,
+    "metrics_blank_rows_excluded": 0,
+    "node_count": 1675,
+    "level_counts": {
+      "1": 13,
+      "2": 84,
+      "3": 401,
+      "4": 1177
+    },
+    "top_level_count": 13,
+    "max_level": 4,
+    "duplicate_hierarchy_count": 0,
+    "repeated_pcf_ids": {
+      "10253": 2,
+      "13480": 2,
+      "10797": 2,
+      "10798": 2,
+      "10799": 2
+    },
+    "orphan_count": 0,
+    "with_definition": 0,
+    "bilingual_count": 0,
+    "metric_record_count": 0,
+    "unlinked_metrics": 0,
+    "supplement_count": 0
+  },
+  "issues": [],
+  "blocking_issues": [],
+  "compatibility_resolution": "Read successfully with python-calamine; original XLS unchanged. xlrd 1.2.0 incompatibility avoided."
+}
