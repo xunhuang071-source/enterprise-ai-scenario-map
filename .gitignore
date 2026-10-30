@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+scor-intro/
+local-import-receipt.json
