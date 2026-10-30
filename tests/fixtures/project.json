@@ -1,0 +1,102 @@
+{
+  "mode": "opportunity",
+  "big_scenarios": [
+    {
+      "id": "S01",
+      "name": "人机协同合同履约模式",
+      "focus": "main",
+      "scope": "合同初审及履约风险协同",
+      "current_state": "合成背景；真实人工基线待调研",
+      "future_mode": "形成可追溯初审、人员决策与持续反馈的工作模式",
+      "kpis": [
+        {
+          "metric": "人审后合同审核总耗时",
+          "definition": "从领取合同到完成业务复核含返工的总分钟数",
+          "unit": "分钟／合同",
+          "baseline_method": "真实样本同任务计时，按难度分组对照，不用生成耗时替代"
+        }
+      ],
+      "states": [
+        {
+          "phase": "近期",
+          "goal": "单任务小样本验证，建立召回与业务计时基准",
+          "use_case_ids": [
+            "U01"
+          ]
+        },
+        {
+          "phase": "中期",
+          "goal": "覆盖多种条款表达与例外，进入受控岗位流程",
+          "use_case_ids": [
+            "U01"
+          ]
+        },
+        {
+          "phase": "远期",
+          "goal": "形成复核反馈、稳定运行与持续回归机制",
+          "use_case_ids": [
+            "U01"
+          ]
+        }
+      ]
+    }
+  ],
+  "use_cases": [
+    {
+      "id": "U01",
+      "parent_id": "S01",
+      "name": "合同审核数字员工",
+      "form": "digital_employee",
+      "business_task": "识别合同付款条件中的超长账期风险",
+      "input": "获准使用的合同文本与审核规则；演示使用合成文本",
+      "ai_work": "定位条款、提取账期、提示风险并给出原文证据",
+      "human_work": "业务审核员复核风险并决定是否接受条款",
+      "handoff": "系统给风险及依据，人审确认，无法判断转人工",
+      "output": "带原文定位的初审风险清单",
+      "user": "合同审核岗位",
+      "source_line": "both",
+      "evidence": [
+        {
+          "kind": "synthetic",
+          "locator": "tests/demo_iteration.py",
+          "note": "构造示范，不是客户事实"
+        }
+      ],
+      "confirmation": "hypothesis",
+      "build_status": "proposed",
+      "test": {
+        "kpi": "关键账期风险召回率",
+        "definition": "正确识别的风险合同数／人工金标准风险合同数",
+        "unit": "比例",
+        "sample": "32份合成合同，按固定ID分为16份开发与16份留出；不同措辞和正常对照",
+        "baseline": {
+          "value": null,
+          "method": "真实项目抽样由两名业务人员独立标注并仲裁，另记录人工审核及返工总耗时"
+        },
+        "threshold": {
+          "value": 0.9,
+          "status": "hypothesis"
+        },
+        "test_method": "版本化固定样本逐条运行；对照金标准；开发与留出分开报指标",
+        "failure": "关键风险漏检不得自动放行；任何无法判断转人审；真实阈值须业务确认",
+        "iterations": []
+      },
+      "assessment": {
+        "value": 4,
+        "feasibility": 3,
+        "data": 3,
+        "basis": {
+          "value": "假设合同审核频繁且漏检损失较大，需业务核验",
+          "feasibility": "可做受控任务Demo；替身测试不代表真实LLM能力",
+          "data": "合成样本可用，真实合同授权与质量未确认"
+        }
+      },
+      "readiness": {
+        "compliance": null,
+        "owner": null,
+        "data_access": null,
+        "dependencies": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment": {
+    "value": 4,
+    "feasibility": 3,
+    "data": 3,
+    "basis": {
+      "value": "假设合同审核频繁且漏检损失较大，需业务核验",
+      "feasibility": "可做受控任务Demo；替身测试不代表真实LLM能力",
+      "data": "合成样本可用，真实合同授权与质量未确认"
+    }
+  },
+  "readiness": {
+    "compliance": null,
+    "owner": null,
+    "data_access": null,
+    "dependencies": null
+  }
+}
