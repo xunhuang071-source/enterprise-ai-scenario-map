@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.1.0",
+  "dataset_id": "ecommerce-practice-reference__v0.1__2026__zh",
+  "industry_zh": "电商行业（国内实务参考）",
+  "industry_en": "Domestic Ecommerce Practice Reference",
+  "version": "0.1",
+  "compiled_version": "0.1",
+  "compiled_at": "2026-10-29",
+  "language": "zh",
+  "file_year": 2026,
+  "date_type": "compiled",
+  "year_basis": "2026年为本地参考框架编制年；V0.1为本地编制版本，不是来源文章、APQC或国家标准版号。",
+  "framework_family": "domestic_ecommerce_reference",
+  "source_type": "analyst_compiled_reference",
+  "is_official": false,
+  "publisher": "本地编制；源作者/机构未共同发布或背书",
+  "complete_catalog": false,
+  "client_validated": false,
+  "aliases": [
+    "电商",
+    "国内电商",
+    "电商行业",
+    "国内电商参考",
+    "ecommerce",
+    "e-commerce",
+    "domestic ecommerce",
+    "ecommerce-practice-reference"
+  ],
+  "source_file": "数据/电商行业_2026年_V0.1_国内实务参考/依据/编制基线_电商草案.md",
+  "source_filename": "编制基线_电商草案.md",
+  "source_sha256": "26d200dcb99d43f4a5155f1f4a3b930da2fb73a328975f3605427f59385b40f5",
+  "baseline_files": [
+    {
+      "path": "依据/编制基线_电商草案.md",
+      "sha256": "26d200dcb99d43f4a5155f1f4a3b930da2fb73a328975f3605427f59385b40f5"
+    },
+    {
+      "path": "依据/精选来源与适用限制.md",
+      "sha256": "59236d96cdf9e333977894af080694c22be4ca57dc111f7e8c64ce745c61f47b"
+    },
+    {
+      "path": "依据/编制种子.json",
+      "sha256": "56fd1fb1f307082b21718cdedd7ae542f470d2d54034d8c05d43e48689170c0b"
+    }
+  ],
+  "sources_file": "sources.json",
+  "source_count": 5,
+  "scope": "国内实物商品电商经营参考；十个业务域，模式与合同条件分别标注。",
+  "excluded_scopes": [
+    "跨境特有的海外仓/清关/外汇/当地税务",
+    "虚拟商品特定服务",
+    "分期信贷融资",
+    "软件项目交付方法"
+  ],
+  "business_models": {
+    "self_operated": "自营/品牌零售",
+    "marketplace": "第三方平台",
+    "agency": "代运营服务"
+  },
+  "interpretation_rules": [
+    "所有规范化名称、定义、输入输出和角色映射均为本地编制。",
+    "source_explicit只表示原文明确涉及过程主题，不表示作者逐字发布本地节点及字段。",
+    "三级活动均标为analyst_extension；它们是基于父过程来源的操作级参考，未逐项获得客户验证。",
+    "层级编号是分类位置，不是强制执行顺序。",
+    "pcf_id为空；ECOM前缀仅本地参考编号。",
+    "name_original在本数据集中表示编制后的标准名称，不是外部来源的逐字原名。"
+  ],
+  "status": "ready",
+  "converted_at": "2026-10-29T13:52:37.579826+00:00",
+  "reader": "local reviewed synthesis from ecommerce_seed.json",
+  "field_spec": "../../字段规范.md",
+  "statistics": {
+    "structure": "analyst compiled process hierarchy",
+    "node_count": 193,
+    "top_level_count": 10,
+    "level_counts": {
+      "1": 10,
+      "2": 61,
+      "3": 122
+    },
+    "max_level": 3,
+    "with_definition": 193,
+    "original_source_definitions": 0,
+    "bilingual_count": 0,
+    "metric_record_count": 0,
+    "supplement_count": 20,
+    "orphan_count": 0,
+    "duplicate_hierarchy_count": 0,
+    "repeated_pcf_ids": {}
+  },
+  "issues": [
+    "非官方参考，未宣称行业完备；三级操作分解及输入输出须用于客户访谈核对。",
+    "源文章存在不可泛化的时点、售后及系统边界判断，限制已保留。"
+  ],
+  "blocking_issues": [],
+  "compared_to_version": null,
+  "licensing": {
+    "full_articles_mirrored": false,
+    "source_ownership": "源文章与企业披露的权利和责任归其各自作者/机构。",
+    "compiled_material": "本地编制，不声称获得原作者机构背书或APQC许可；对外使用保留适用来源及归属。"
+  },
+  "baseline_original_hashes": {
+    "draft_sha256": "380515449114d84b9107cb382915e51c18530a55b58d6c04385b7d0d9cd99255",
+    "source_notes_sha256": "5b058a19566bbc553205671b33e0ec1d68723b9e86366c53a871133ff83623f8",
+    "copy_note": "Copied draft/notes adapt relative links only; original source drafts unchanged."
+  }
+}

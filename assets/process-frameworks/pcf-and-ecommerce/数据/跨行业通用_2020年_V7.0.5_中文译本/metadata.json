@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0.0",
+  "tool_version": "1.0.0",
+  "dataset_id": "cross-industry__v7.0.5__2020__zh",
+  "industry_zh": "跨行业通用",
+  "industry_en": "Cross Industry",
+  "version": "7.0.5",
+  "language": "zh",
+  "file_year": 2020,
+  "date_type": "generated",
+  "year_basis": "说明页文本框：GENERATED ON 08/13/2020，即2020年8月13日生成",
+  "date_evidence_note": "File year is not necessarily release year.",
+  "aliases": [
+    "跨行业通用",
+    "Cross Industry",
+    "cross-industry",
+    "跨行业",
+    "通用",
+    "cross industry"
+  ],
+  "source_file": "../Excel版/跨行业通用_2020年_V7.0.5_中文译本.xlsx",
+  "source_filename": "跨行业通用_2020年_V7.0.5_中文译本.xlsx",
+  "source_sha256": "59a8a4e8e81213c179a4890e4a0282e9ef841a61ea0b4dd2b5cb1a1bf972ef46",
+  "compared_to_version": null,
+  "original_organization_note": "年份为中文译本文件生成年份，不等同于英文原版框架发布年。",
+  "status": "ready",
+  "converted_at": "2026-10-29T11:48:00.244227+00:00",
+  "field_spec": "../../字段规范.md",
+  "reader": "openpyxl",
+  "sheet_dimensions": {
+    "Introduction": {
+      "rows": 0,
+      "max_columns": 0
+    },
+    "About": {
+      "rows": 0,
+      "max_columns": 0
+    },
+    "Categories": {
+      "rows": 14,
+      "max_columns": 4
+    },
+    "1.0": {
+      "rows": 111,
+      "max_columns": 4
+    },
+    "2.0": {
+      "rows": 101,
+      "max_columns": 4
+    },
+    "3.0": {
+      "rows": 199,
+      "max_columns": 4
+    },
+    "4.0": {
+      "rows": 142,
+      "max_columns": 4
+    },
+    "5.0": {
+      "rows": 68,
+      "max_columns": 4
+    },
+    "6.0": {
+      "rows": 101,
+      "max_columns": 4
+    },
+    "7.0": {
+      "rows": 133,
+      "max_columns": 4
+    },
+    "8.0": {
+      "rows": 138,
+      "max_columns": 4
+    },
+    "9.0": {
+      "rows": 263,
+      "max_columns": 4
+    },
+    "10.0": {
+      "rows": 70,
+      "max_columns": 4
+    },
+    "11.0": {
+      "rows": 56,
+      "max_columns": 4
+    },
+    "12.0": {
+      "rows": 55,
+      "max_columns": 4
+    },
+    "13.0": {
+      "rows": 196,
+      "max_columns": 4
+    },
+    "Combined": {
+      "rows": 1621,
+      "max_columns": 4
+    },
+    "English Translation": {
+      "rows": 1621,
+      "max_columns": 6
+    },
+    "Glossary terms": {
+      "rows": 1477,
+      "max_columns": 4
+    },
+    "Copyright and attribution": {
+      "rows": 0,
+      "max_columns": 0
+    }
+  },
+  "supporting_text": [
+    {
+      "location": "xl/worksheets/sheet1.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet3.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet4.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet5.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet6.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet7.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet8.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet9.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet10.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet11.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet12.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet13.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet14.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet15.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet16.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet17.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet18.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet19.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet20.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/drawings/drawing1.xml",
+      "text": "CROSS INDUSTRY PROCESS CLASSIFICATION FRAMEWORK (Mandarin)\nVERSION NUMBER 7.0.5\nGENERATED ON 08/13/2020\nFor\n more information about the PCF, visit www.apqc.org/pcf"
+    },
+    {
+      "location": "xl/drawings/drawing2.xml",
+      "text": "UNDERSTANDING\n THIS FILE\nThis file represents a \"flat\" Excel-based version of the PCF. It includes a number of worksheets intended to communicate the various aspects of the framework necessary to interpret it and make full use of its intended capabilities.\nThese pages illustrate the configuration of this file. If you have further questions, please contact APQC directly on pcf_feedback@apqc.org or +1-713-681-4020.\nPCF ID\n is the unique identifier assigned to the specific element on each row. The PCF ID is used throughout APQC's open standards benchmarking as a way to relate measures, questions, and other materials back to specific parts of the PCF. The PCF ID for a process element is aligned to the specific concept identified by the process element. It will be consistent across releases as long as the conceptual meaning does not change.\nHierarchy ID\n is the human-readable index number corresponding to this specific process element on each row. This number will not be consistent across releases - meaning that a process element may have a different hierarchy ID among a set of releases. \nMetrics available\n indicates whether or not metrics are available in APQC's Open Standards Benchmarking library for this specific process element. For more information, please visit http://www.apqc.org/osb"
+    },
+    {
+      "location": "xl/drawings/drawing3.xml",
+      "text": "ABOUT APQC\n\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.\nCOPYRIGHT AND ATTRIBUTION\n\n©2017 APQC. ALL RIGHTS RESERVED. This Process Classification Framework® (“PCF”) is the copyrighted intellectual property of APQC. APQC encourages the wide distribution, discussion, and use of the PCF for classifying and defining organizational processes. Accordingly, APQC hereby grants you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF and any derivative works contain the following attribution: \nThis APQC Process Classification Framework® (“PCF”) is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf."
+    },
+    {
+      "location": "docProps/core.xml",
+      "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<cp:coreProperties xmlns:cp=\"http://schemas.openxmlformats.org/package/2006/metadata/core-properties\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:dcmitype=\"http://purl.org/dc/dcmitype/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><dc:creator>Creppel, Mellissa</dc:creator><cp:lastModifiedBy>Sudhir Sasi Nair</cp:lastModifiedBy><cp:lastPrinted>2014-06-16T13:58:44Z</cp:lastPrinted><dcterms:created xsi:type=\"dcterms:W3CDTF\">2014-06-05T20:33:53Z</dcterms:created><dcterms:modified xsi:type=\"dcterms:W3CDTF\">2023-08-17T20:39:28Z</dcterms:modified></cp:coreProperties>"
+    }
+  ],
+  "attribution_text": [
+    {
+      "location": "xl/worksheets/sheet1.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet2.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet3.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet4.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet5.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet6.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet7.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet8.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet9.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet10.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet11.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet12.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet13.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet14.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet15.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet16.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet17.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet18.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet19.xml oddFooter",
+      "text": "&R&P of &N&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/worksheets/sheet20.xml oddFooter",
+      "text": "&LCopyright 2017 APQC"
+    },
+    {
+      "location": "xl/drawings/drawing3.xml",
+      "text": "ABOUT APQC\n\nAn internationally recognized resource for process and performance improvement, APQC helps organizations adapt to rapidly changing environments, build new and better ways to work, and succeed in a competitive marketplace. With a focus on productivity, knowledge management, benchmarking, and quality improvement initiatives, APQC works with its member organizations to identify best practices; discover effective methods of improvement; broadly disseminate findings; and connect individuals with one another and the knowledge, training, and tools they need to succeed. Founded in 1977, APQC is a member-based nonprofit serving organizations around the world in all sectors of business, education, and government. APQC is also a proud winner of the 2003, 2004, 2008, 2012, and 2013 North American Most Admired Knowledge Enterprises (MAKE) awards. This award is based on a study by Teleos, a European based research firm, and the KNOW network.\nCOPYRIGHT AND ATTRIBUTION\n\n©2017 APQC. ALL RIGHTS RESERVED. This Process Classification Framework® (“PCF”) is the copyrighted intellectual property of APQC. APQC encourages the wide distribution, discussion, and use of the PCF for classifying and defining organizational processes. Accordingly, APQC hereby grants you a perpetual, worldwide, royalty-free license to use, copy, publish, modify, and create derivative works of the PCF, provided that all copies of the PCF and any derivative works contain the following attribution: \nThis APQC Process Classification Framework® (“PCF”) is an open standard developed by APQC, a nonprofit that promotes benchmarking and best practices worldwide. The PCF is intended to facilitate organizational improvement through process management and benchmarking, regardless of industry, size, or geography. To download the full PCF or industry-specific versions of the PCF, as well as associated measures and benchmarking, please visit www.apqc.org/pcf."
+    }
+  ],
+  "statistics": {
+    "structure": "modern Combined",
+    "combined_node_count": 1620,
+    "section_node_count": 1620,
+    "section_conflicts": 0,
+    "missing_in_sections": 0,
+    "section_duplicates": 0,
+    "category_count": 13,
+    "metrics_source_rows": 0,
+    "metrics_blank_rows_excluded": 0,
+    "node_count": 1620,
+    "level_counts": {
+      "1": 13,
+      "2": 70,
+      "3": 301,
+      "4": 1090,
+      "5": 146
+    },
+    "top_level_count": 13,
+    "max_level": 5,
+    "duplicate_hierarchy_count": 0,
+    "repeated_pcf_ids": {},
+    "orphan_count": 0,
+    "with_definition": 1475,
+    "bilingual_count": 1620,
+    "metric_record_count": 0,
+    "unlinked_metrics": 0,
+    "supplement_count": 1
+  },
+  "issues": [],
+  "blocking_issues": []
+}

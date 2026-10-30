@@ -1,0 +1,62 @@
+{
+  "notice": "来源作者/机构未共同发布或背书本地V0.1框架；只有链接、元信息与编制定位，不镜像文章全文。",
+  "verified_at": "2026-10-29",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "人艰仍“拆”！万字长文拆解电商系统框架",
+      "author": "产品小球",
+      "publisher": "人人都是产品经理",
+      "date": "2024-09-09",
+      "url": "https://www.woshipm.com/pd/6111311.html",
+      "source_type": "professional_article",
+      "status": "原站正文及作者日期已核对",
+      "limits": "个人实务观点；虚拟商品售后、库存锁定时点和分期金融场景不可泛化。"
+    },
+    {
+      "source_id": "S2",
+      "title": "电商核心系统整体分享",
+      "author": "励秣",
+      "publisher": "人人都是产品经理",
+      "date": "2025-03-28",
+      "url": "https://www.woshipm.com/share/6198195.html",
+      "source_type": "professional_article",
+      "status": "原站正文及作者日期已核对",
+      "limits": "作者个人项目经验；系统边界和命名不等于全行业统一业务标准。"
+    },
+    {
+      "source_id": "S3",
+      "title": "从上帝视角，拆解跨境电商ERP",
+      "author": "业财老曾",
+      "publisher": "人人都是产品经理",
+      "date": "2025-10-23",
+      "url": "https://www.woshipm.com/pd/6282401.html",
+      "source_type": "professional_article",
+      "status": "原站正文及作者日期已核对",
+      "limits": "跨境特定的海外仓、清关、外币及税务不自动用于国内底座；一般采购库存利润内容仅作参考。"
+    },
+    {
+      "source_id": "S4",
+      "title": "电商产品19个模块速览：你的学习路线图",
+      "author": "Zoe产品手记",
+      "publisher": "人人都是产品经理",
+      "date": "2026-02-25",
+      "url": "https://www.woshipm.com/share/6344463.html",
+      "source_type": "professional_article",
+      "status": "原站正文及作者日期已核对",
+      "limits": "导航文章；第18、19项为软件项目交付，本数据集不将其列为电商经营域。"
+    },
+    {
+      "source_id": "S5",
+      "title": "杭州壹网壹创科技股份有限公司2025年年度报告全文",
+      "author": "杭州壹网壹创科技股份有限公司",
+      "publisher": "巨潮资讯原始披露",
+      "date": "2026-03-31",
+      "reporting_year": 2025,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225058027.PDF",
+      "source_type": "issuer_annual_report",
+      "status": "224页原始PDF，物理页10—12及第12页流程图已核对",
+      "limits": "特定企业的模式与流程，不代表行业标准。其品牌线上管理服务/营销服务是该公司用语。"
+    }
+  ]
+}
